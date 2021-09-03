@@ -1,7 +1,7 @@
 ## algoritmatukargelas
 ***
 1. Siapkan wadah kosong
-2. Pindahkan gelas berisi teh ke wadah kosong 
-3. Pindahkan gelas berisi kopi ke wadah teh 
-4. Pindahkan gelas berisi teh ke wadah bekas kopi 
+2. Tuangkan gelas berisi teh ke wadah kosong 
+3. Tuangkan gelas berisi kopi ke wadah teh 
+4. Tuangkan gelas berisi teh ke wadah bekas kopi 
 ***
